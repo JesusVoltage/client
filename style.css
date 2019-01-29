@@ -10,3 +10,10 @@ body{
 .bg-rosa{
     background:rgb(240, 95, 143) ;
 }
+
+.boton{
+    background: rgb(240, 95, 143) ;
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+}
