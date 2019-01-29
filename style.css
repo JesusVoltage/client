@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(255, 140, 180);
+}
+
+.bg-rosa{
+    background:rgb(240, 95, 143) ;
+}
