@@ -13,10 +13,6 @@ $(document).ready(function(){
                     
                     for(i = j ; i < 10 ; i++ ){
                         $('#content').append('<input class="boton"></input>');
-                        
-                        
-                        
-                        
                     }
                     $('#content').append('<p>'+glifos[j].pista+'</p>');
                 }
